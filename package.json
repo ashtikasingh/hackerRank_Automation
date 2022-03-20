@@ -1,0 +1,17 @@
+{
+  "name": "Hackerank_Automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hackerRank_Automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "puppeteer": "^13.5.1",
+    "puppeteer-core": "^13.5.1"
+  }
+}

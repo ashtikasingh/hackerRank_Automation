@@ -1,0 +1,1 @@
+node hackerRank_Automation.js --url=https://www.hackerrank.com/ --config=config.json

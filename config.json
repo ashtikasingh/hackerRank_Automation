@@ -1,0 +1,12 @@
+{
+   "userid" : "emailAddresss",
+   "password" : "password",
+   "moderators" : [
+       "moderator1",
+       "moderator2",
+       "moderator3",
+       "...",
+       "...",
+       "moderatorN"
+   ] 
+}
